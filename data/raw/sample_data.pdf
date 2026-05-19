@@ -1,0 +1,18 @@
+Sample Data Engineering Notes for RAG Pipeline
+
+Apache Spark
+Apache Spark is a distributed data processing engine used for large-scale ETL, analytics, and
+streaming workloads.
+
+Apache Kafka
+Kafka is a distributed event streaming platform used for real-time pipelines and messaging.
+
+Apache Airflow
+Airflow orchestrates workflows using DAGs and schedules ETL pipelines.
+
+Apache Iceberg
+Iceberg is a table format supporting schema evolution, ACID transactions, snapshots, and time
+travel.
+
+Data Engineering Skills
+Important skills include Python, SQL, Spark, Kafka, Airflow, cloud platforms, and data modeling.
